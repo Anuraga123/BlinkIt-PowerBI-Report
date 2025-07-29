@@ -40,28 +40,28 @@ Enable leadership at Blinkit to understand sales performance, identify top/botto
 ### 🔸 1. Sales Overview Dashboard  
 A high-level summary of Blinkit's sales metrics and performance indicators.
 
-<img src="screenshots/1.png" alt="Sales Overview Dashboard" width="700"/>
+<img src="Images/1.png" alt="Sales Overview Dashboard" width="700"/>
 
 ---
 
 ### 🔸 2. Category-wise Analysis  
 Breakdown of sales, revenue, and orders by product category.
 
-<img src="screenshots/2.png" alt="Category-wise Analysis" width="700"/>
+<img src="Images/2.png" alt="Category-wise Analysis" width="700"/>
 
 ---
 
 ### 🔸 3. Time Series Trends  
 Visualization of order volume and revenue over time (daily, weekly, or monthly).
 
-<img src="screenshots/3.png" alt="Time Series Trends" width="700"/>
+<img src="Images/3.png" alt="Time Series Trends" width="700"/>
 
 ---
 
 ### 🔸 4. Geographical Performance  
 Region- or city-level analysis of sales and user behavior.
 
-<img src="screenshots/4.png" alt="Geographical Performance" width="700"/>
+<img src="Images/4.png" alt="Geographical Performance" width="700"/>
 
 
 ## ✅ Key Features
